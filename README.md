@@ -2,7 +2,7 @@
 
 ## Install
 
-    curl -s https://raw.githubusercontent.com/tg90nor/dotfiles/master/setup.sh | zsh
+    curl -s https://raw.githubusercontent.com/gittela/dotfiles/master/setup.sh | zsh
     chsh -s `which zsh`
     vim +PluginInstall +qall
 
